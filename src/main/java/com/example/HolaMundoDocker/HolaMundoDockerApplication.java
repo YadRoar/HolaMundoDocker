@@ -10,6 +10,7 @@ public class HolaMundoDockerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HolaMundoDockerApplication.class, args);
+
 	}
 
 	@RestController
